@@ -24,7 +24,7 @@ This is Python version 3.10.0 alpha 0
 
 Copyright (c) 2001-2020 Python Software Foundation.  All rights reserved.
 
-See the end of this file for further copyright and license information.
+See the end of this file for further copyright and license information
 
 .. contents::
 
